@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joe Duffy; aka @scruff_duff & @scruffduff
+- 👀 I’m interested in Indie Game Development & Virtual Reality
+- 🌱 I’m currently learning C# for Unity, XR Development, Game Design
+- 💞️ I’m looking to collaborate on indie game development projects; either commerically or fun.  Got an idea? Reach out!
+- 📫 My email (joe.duffy21@outlook.com) is the best way to reach me
